@@ -1,0 +1,6 @@
+# Variables
+*.env
+
+# Data
+panel/
+wings/
