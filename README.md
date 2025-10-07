@@ -150,6 +150,7 @@ First create a `location` within the UI. Then create a node with the following s
 | `2022/tcp` | `SFTP` | `ALLOW IN` | `WINGS` |
 | `8080/tcp` | `HTTP` | `local` | `Panel` |
 | `8443/tcp` | `HTTPS` | `local` | `Wings` |
+| `24454/udp` |  | `ALLOW IN` | `Simple Voice Chat` | 
 | `25565:25575/tcp` |  | `ALLOW IN` | `Minecraft` |
 
 ### Variables
